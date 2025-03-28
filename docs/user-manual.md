@@ -195,6 +195,7 @@ Older versions of gpodder have an **Import from OPML file** menu item while newe
 2.  Select **Choose from a list of example podcasts** on the gpodder startup assistant
 3.  Change the **OPML/Search** field to the file url for your opml file (e.g., <file:///home/username/my.opml>''')
     -   You can open the opml file with your browser's "open file" to obtain the <file://> url if you are unsure of it.
+    -   For Windows use the direct file path instead with slashes instead of back slaches (e.g., c:/users/username/documents/my.opml)
 
 4.  Select All podcasts and Add
 
